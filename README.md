@@ -1,0 +1,2 @@
+# IdleBuddy
+IdleBuddy
