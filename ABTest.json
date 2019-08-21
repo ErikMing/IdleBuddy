@@ -16,7 +16,7 @@
             "panel_size": 100
         },
         "A": {
-         "multiplier_cost": 1,
+              "multiplier_cost": 1,
         "multiplier_fab_cost": 0.7,
         "multiplier_bottom_cost": 1,
         "multiplier_xp": 0.58,
@@ -26,7 +26,7 @@
             "panel_size": 100
         },
         "B": {
-       "multiplier_cost": 1,
+           "multiplier_cost": 1,
         "multiplier_fab_cost": 0.7,
         "multiplier_bottom_cost": 1,
         "multiplier_xp": 0.58,
