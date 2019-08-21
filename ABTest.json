@@ -1,13 +1,13 @@
 {
 	"DefaultValue": {
         "multiplier_cost": 1,
-        "multiplier_fab_cost": 0.7,
+        "multiplier_fab_cost": 0.85,
         "multiplier_bottom_cost": 1,
-        "multiplier_xp": 0.58,
+        "multiplier_xp": 2,
         "multiplier_gold_earning": 1,
         "multiplier_xp_earning": 1,
 
-        "AB_test_users": 100  
+        "AB_test_users": 0  
 },
 
 	"ABtests": {
