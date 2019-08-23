@@ -1,9 +1,9 @@
 {
 	"DefaultValue": {
         "multiplier_cost": 1,
-        "multiplier_fab_cost": 0.85,
+        "multiplier_fab_cost": 1,
         "multiplier_bottom_cost": 1,
-        "multiplier_xp": 2,
+        "multiplier_xp": 1,
         "multiplier_gold_earning": 1,
         "multiplier_xp_earning": 1,
 
