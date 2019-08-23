@@ -23,7 +23,7 @@
         "multiplier_gold_earning": 1,
         "multiplier_xp_earning": 1,
 
-            "panel_size": 100
+            "panel_size": 0
         },
         "B": {
            "multiplier_cost": 1,
@@ -33,7 +33,7 @@
         "multiplier_gold_earning": 1,
         "multiplier_xp_earning": 1,
             
-            "panel_size": 0
+            "panel_size": 100
         },
         "C": {
         "multiplier_cost": 1,
