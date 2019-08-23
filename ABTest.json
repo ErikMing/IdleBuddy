@@ -1,5 +1,6 @@
 {
 	"DefaultValue": {
+		"multiplier_world_panel": "Ref",
         "multiplier_cost": 1,
         "multiplier_fab_cost": 1,
         "multiplier_bottom_cost": 1,
@@ -7,43 +8,19 @@
         "multiplier_gold_earning": 1,
         "multiplier_xp_earning": 1,
 
-        "AB_test_users": 0  
+        "AB_test_users": 100  
 },
 
 	"ABtests": {
 
         "Ref": {
-            "panel_size": 0
+            "panel_size": 100
         },
         "A": {
-              "multiplier_cost": 1,
-        "multiplier_fab_cost": 0.7,
-        "multiplier_bottom_cost": 1,
-        "multiplier_xp": 0.58,
-        "multiplier_gold_earning": 1,
-        "multiplier_xp_earning": 1,
+		
+		"multiplier_world_panel": "A",
 
-            "panel_size": 0
-        },
-        "B": {
-           "multiplier_cost": 1,
-        "multiplier_fab_cost": 0.7,
-        "multiplier_bottom_cost": 1,
-        "multiplier_xp": 0.58,
-        "multiplier_gold_earning": 1,
-        "multiplier_xp_earning": 1,
-            
-            "panel_size": 0
-        },
-        "C": {
-        "multiplier_cost": 1,
-        "multiplier_fab_cost": 0.7,
-        "multiplier_bottom_cost": 1,
-        "multiplier_xp": 0.58,
-        "multiplier_gold_earning": 1,
-        "multiplier_xp_earning": 1,
-            
             "panel_size": 100
-       }     
-	}
+        }
+      }
 }
