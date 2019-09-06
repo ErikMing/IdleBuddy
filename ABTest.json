@@ -17,10 +17,7 @@
             "panel_size": 100
         },
         "A": {
-		
-		"multiplier_world_panel": "A",
-
-            "panel_size": 100
+            "panel_size": 0
         }
       }
 }
